@@ -2,6 +2,10 @@
 
 Twitman is an application that allows you to manage and view multiple Twitter accounts in a one window. 
 
+## Demo
+
+https://twitman.herokuapp.com/
+
 ## Installation
 
 Use these steps to install project
