@@ -1,0 +1,13 @@
+/*
+ *
+ * Tweets constants
+ *
+ */
+
+export const FETCH_TWEETS_REQUEST_ACTION = 'app/Tweets/FETCH_TWEETS_REQUEST_ACTION'
+export const FETCH_TWEETS_SUCCESS_ACTION = 'app/Tweets/FETCH_TWEETS_SUCCESS_ACTION'
+export const FETCH_TWEETS_FAILURE_ACTION = 'app/Tweets/FETCH_TWEETS_FAILURE_ACTION'
+
+export const TWEET_TYPE_STATUSES = 'app/Tweets/TWEET_TYPE_STATUSES'
+export const TWEET_TYPE_TWEETS = 'app/Tweets/TWEET_TYPE_TWEETS'
+export const TWEET_TYPE_SEARCH = 'app/Tweets/TWEET_TYPE_SEARCH'

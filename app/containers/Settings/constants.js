@@ -1,0 +1,9 @@
+/*
+ *
+ * Settings constants
+ *
+ */
+
+export const FETCH_SETTINGS_REQUEST_ACTION = 'app/Settings/FETCH_SETTINGS_REQUEST_ACTION'
+export const FETCH_SETTINGS_SUCCESS_ACTION = 'app/Settings/FETCH_SETTINGS_SUCCESS_ACTION'
+export const FETCH_SETTINGS_FAILURE_ACTION = 'app/Settings/FETCH_SETTINGS_FAILURE_ACTION'
