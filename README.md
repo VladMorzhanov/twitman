@@ -1,6 +1,6 @@
 # Twitman
 
-Twitman is an application that allow you to manage anv view multiple Twitter accounts in a one window. 
+Twitman is an application that allows you to manage and view multiple Twitter accounts in a one window. 
 
 ## Installation
 
