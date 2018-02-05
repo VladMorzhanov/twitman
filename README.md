@@ -27,7 +27,7 @@ In this app you can:
 6. Create new tweet and post it to multiple Twitter accounts.
 7. Review Profile and Settings data.
 
-# Main Technologies
+## Main Technologies
 * React.js
 * Redux.js
 * Reselect.js
