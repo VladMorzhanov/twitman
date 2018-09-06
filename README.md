@@ -1,5 +1,7 @@
 # Twitman
 
+<img src="https://i.imgur.com/O6L535J.png"/>
+
 Twitman is an application that allows you to manage and review multiple Twitter accounts in a one window. 
 
 ## Demo
@@ -28,15 +30,21 @@ In this app you can:
 7. Review Profile and Settings data.
 
 ## Main Technologies
-* React.js
-* Redux.js
-* Reselect.js
-* Redux-saga
-* Styled components
-* Node.js + Express.js
-* Passport.js
-* MongoDB
-* Tweet library
+
+- <a href="https://reactjs.org/">React</a>
+- <a href="https://redux.js.org/">Redux</a>
+- <a href="https://github.com/redux-saga/redux-saga">Redux Saga</a>
+- <a href="https://github.com/reduxjs/reselect">Reselect</a>
+- <a href="https://nodejs.org/en/">NodeJS</a>
+- <a href="https://expressjs.com/">ExpressJS</a>
+- <a href="https://www.mongodb.com/">MongoDB</a>
+- <a href="https://github.com/ttezel/twit">Twit</a>
+- <a href="https://www.styled-components.com/">Styled components</a>
+- <a href="https://webpack.js.org/">Webpack 4</a>
+- <a href="https://eslint.org/">ESLint</a>
+- <a href="https://github.com/prettier/prettier">Prettier</a>
+- <a href="https://babeljs.io/">Babel</a>
+- <a href="https://sass-lang.com/">Sass</a>
 
 ## Contributing
 
