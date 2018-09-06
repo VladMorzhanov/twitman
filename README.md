@@ -1,6 +1,6 @@
 # Twitman
 
-<img src="https://i.imgur.com/O6L535J.png"/>
+<img src="https://i.imgur.com/wK0weSy.png"/>
 
 Twitman is an application that allows you to manage and review multiple Twitter accounts in a one window. 
 
