@@ -3,6 +3,8 @@ coverage
 node_modules
 stats.json
 
+.DS_Store
+
 server/constants/mongourl.js
 
 */mongourl.js
